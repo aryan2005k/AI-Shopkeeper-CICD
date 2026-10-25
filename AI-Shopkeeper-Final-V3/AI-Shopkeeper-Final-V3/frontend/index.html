@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Shopkeeper</title>
+<link rel="stylesheet" href="/static/style.css">
+<!-- Chart.js: local copy first (works offline once run.bat/setup.bat has downloaded it),
+     then the CDN. If neither loads, app.js draws charts with a built-in canvas fallback. -->
+<script src="/static/vendor/chart.umd.min.js"
+  onerror="this.onerror=null;var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js';document.head.appendChild(s);"></script>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <h1>AI Shopkeeper</h1>
+    <p class="muted">Demand Forecasting & Smart Inventory</p>
+    <nav>
+      <a href="#dashboard">Dashboard</a>
+      <a href="#data">CSV Import</a>
+      <a href="#products">Products</a>
+      <a href="#forecast">Forecasting</a>
+    </nav>
+  </aside>
+
+  <main>
+    <header>
+      <div>
+        <h2>AI Shopkeeper Dashboard</h2>
+        <p>Sales → AI forecasting → inventory recommendation</p>
+      </div>
+    </header>
+
+    <section id="dashboard">
+      <div class="cards">
+        <div class="card"><span>Total Units Sold</span><strong id="units">—</strong></div>
+        <div class="card"><span>Revenue</span><strong id="revenue">—</strong></div>
+        <div class="card"><span>Products</span><strong id="productCount">—</strong></div>
+      </div>
+      <div class="panel">
+        <h3>Sales Trend</h3>
+        <canvas id="trendChart" data-h="260"></canvas>
+      </div>
+      <div class="panel">
+        <h3>Top Products</h3>
+        <div id="topProducts"></div>
+      </div>
+    </section>
+
+    <section id="data">
+      <div class="panel">
+        <h3>Import Sales CSV</h3>
+        <p>Required columns: date, product_id, product_name, category, quantity_sold, unit_price, promotion</p>
+        <p class="muted2">Re-uploading overlapping dates updates those days; it never creates duplicates.</p>
+        <input type="file" id="csvFile" accept=".csv">
+        <button id="uploadBtn" onclick="uploadCSV()">Upload CSV</button>
+        <div id="uploadStatus" class="status"></div>
+      </div>
+    </section>
+
+    <section id="products">
+      <div class="panel">
+        <h3>Products & Inventory</h3>
+        <div class="tablewrap">
+        <table>
+          <thead><tr><th>Product</th><th>Category</th><th>Price</th><th>Stock</th><th>Incoming</th><th>Safety</th><th>Action</th></tr></thead>
+          <tbody id="productTable"></tbody>
+        </table>
+        </div>
+        <div id="inventoryStatus" class="status"></div>
+      </div>
+    </section>
+
+    <section id="forecast">
+      <div class="panel">
+        <h3>Demand Forecast</h3>
+        <div class="formrow">
+          <select id="productSelect"></select>
+          <label class="field">Days<input id="horizon" type="number" value="7" min="1" max="30"></label>
+          <label class="field">Lead time (days)<input id="leadTime" type="number" value="2" min="0" max="60"></label>
+          <label class="field">Service level
+            <select id="serviceLevel"><option value="0.90">90%</option><option value="0.95" selected>95%</option><option value="0.99">99%</option></select>
+          </label>
+        </div>
+        <div class="formrow opts">
+          <label><input type="checkbox" id="optRetrain"> Retrain models</label>
+          <label><input type="checkbox" id="optTune"> Tune hyper-parameters (slower)</label>
+        </div>
+        <div class="formrow">
+          <button id="forecastBtn" onclick="runForecast()">Run Forecast</button>
+          <button id="lstmBtn" onclick="runLSTM()">Run LSTM Experiment</button>
+          <a class="btnlink" href="/api/results.csv">Download results (CSV)</a>
+        </div>
+        <div id="forecastResult"></div><div id="lstmResult"></div>
+      </div>
+    </section>
+  </main>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+# Minimum versions. For the exact versions this project
+# was last run with, use:  pip install -r requirements-lock.txt
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+lightgbm>=4.3
+joblib>=1.3
+shap>=0.45

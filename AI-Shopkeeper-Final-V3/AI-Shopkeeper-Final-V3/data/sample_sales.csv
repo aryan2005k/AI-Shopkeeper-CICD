@@ -1,0 +1,301 @@
+date,product_id,product_name,category,quantity_sold,unit_price,promotion
+2026-07-01,P001,Rice 5kg,Grocery,31,42.0,1
+2026-07-01,P002,Cooking Oil 1L,Grocery,19,16.5,1
+2026-07-01,P003,Milk 1L,Dairy,47,6.5,1
+2026-07-01,P004,Biscuits Pack,Snacks,62,3.0,1
+2026-07-01,P005,Shampoo 200ml,Personal Care,11,18.0,1
+2026-07-02,P001,Rice 5kg,Grocery,25,42.0,1
+2026-07-02,P002,Cooking Oil 1L,Grocery,22,16.5,1
+2026-07-02,P003,Milk 1L,Dairy,42,6.5,1
+2026-07-02,P004,Biscuits Pack,Snacks,56,3.0,1
+2026-07-02,P005,Shampoo 200ml,Personal Care,13,18.0,1
+2026-07-03,P001,Rice 5kg,Grocery,27,42.0,0
+2026-07-03,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-07-03,P003,Milk 1L,Dairy,35,6.5,0
+2026-07-03,P004,Biscuits Pack,Snacks,52,3.0,0
+2026-07-03,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-04,P001,Rice 5kg,Grocery,27,42.0,0
+2026-07-04,P002,Cooking Oil 1L,Grocery,23,16.5,0
+2026-07-04,P003,Milk 1L,Dairy,38,6.5,0
+2026-07-04,P004,Biscuits Pack,Snacks,62,3.0,0
+2026-07-04,P005,Shampoo 200ml,Personal Care,15,18.0,0
+2026-07-05,P001,Rice 5kg,Grocery,29,42.0,0
+2026-07-05,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-07-05,P003,Milk 1L,Dairy,50,6.5,0
+2026-07-05,P004,Biscuits Pack,Snacks,55,3.0,0
+2026-07-05,P005,Shampoo 200ml,Personal Care,14,18.0,0
+2026-07-06,P001,Rice 5kg,Grocery,22,42.0,0
+2026-07-06,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-07-06,P003,Milk 1L,Dairy,37,6.5,0
+2026-07-06,P004,Biscuits Pack,Snacks,48,3.0,0
+2026-07-06,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-07,P001,Rice 5kg,Grocery,31,42.0,0
+2026-07-07,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-07-07,P003,Milk 1L,Dairy,32,6.5,0
+2026-07-07,P004,Biscuits Pack,Snacks,40,3.0,0
+2026-07-07,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-07-08,P001,Rice 5kg,Grocery,28,42.0,0
+2026-07-08,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-07-08,P003,Milk 1L,Dairy,31,6.5,0
+2026-07-08,P004,Biscuits Pack,Snacks,40,3.0,0
+2026-07-08,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-07-09,P001,Rice 5kg,Grocery,27,42.0,0
+2026-07-09,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-07-09,P003,Milk 1L,Dairy,32,6.5,0
+2026-07-09,P004,Biscuits Pack,Snacks,47,3.0,0
+2026-07-09,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-10,P001,Rice 5kg,Grocery,25,42.0,0
+2026-07-10,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-07-10,P003,Milk 1L,Dairy,36,6.5,0
+2026-07-10,P004,Biscuits Pack,Snacks,50,3.0,0
+2026-07-10,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-11,P001,Rice 5kg,Grocery,31,42.0,0
+2026-07-11,P002,Cooking Oil 1L,Grocery,24,16.5,0
+2026-07-11,P003,Milk 1L,Dairy,36,6.5,0
+2026-07-11,P004,Biscuits Pack,Snacks,55,3.0,0
+2026-07-11,P005,Shampoo 200ml,Personal Care,14,18.0,0
+2026-07-12,P001,Rice 5kg,Grocery,28,42.0,0
+2026-07-12,P002,Cooking Oil 1L,Grocery,22,16.5,0
+2026-07-12,P003,Milk 1L,Dairy,52,6.5,0
+2026-07-12,P004,Biscuits Pack,Snacks,51,3.0,0
+2026-07-12,P005,Shampoo 200ml,Personal Care,17,18.0,0
+2026-07-13,P001,Rice 5kg,Grocery,18,42.0,0
+2026-07-13,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-07-13,P003,Milk 1L,Dairy,36,6.5,0
+2026-07-13,P004,Biscuits Pack,Snacks,50,3.0,0
+2026-07-13,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-07-14,P001,Rice 5kg,Grocery,27,42.0,0
+2026-07-14,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-07-14,P003,Milk 1L,Dairy,33,6.5,0
+2026-07-14,P004,Biscuits Pack,Snacks,51,3.0,0
+2026-07-14,P005,Shampoo 200ml,Personal Care,11,18.0,0
+2026-07-15,P001,Rice 5kg,Grocery,26,42.0,1
+2026-07-15,P002,Cooking Oil 1L,Grocery,20,16.5,1
+2026-07-15,P003,Milk 1L,Dairy,40,6.5,1
+2026-07-15,P004,Biscuits Pack,Snacks,61,3.0,1
+2026-07-15,P005,Shampoo 200ml,Personal Care,15,18.0,1
+2026-07-16,P001,Rice 5kg,Grocery,33,42.0,1
+2026-07-16,P002,Cooking Oil 1L,Grocery,22,16.5,1
+2026-07-16,P003,Milk 1L,Dairy,45,6.5,1
+2026-07-16,P004,Biscuits Pack,Snacks,62,3.0,1
+2026-07-16,P005,Shampoo 200ml,Personal Care,14,18.0,1
+2026-07-17,P001,Rice 5kg,Grocery,26,42.0,0
+2026-07-17,P002,Cooking Oil 1L,Grocery,16,16.5,0
+2026-07-17,P003,Milk 1L,Dairy,34,6.5,0
+2026-07-17,P004,Biscuits Pack,Snacks,43,3.0,0
+2026-07-17,P005,Shampoo 200ml,Personal Care,10,18.0,0
+2026-07-18,P001,Rice 5kg,Grocery,32,42.0,0
+2026-07-18,P002,Cooking Oil 1L,Grocery,21,16.5,0
+2026-07-18,P003,Milk 1L,Dairy,45,6.5,0
+2026-07-18,P004,Biscuits Pack,Snacks,61,3.0,0
+2026-07-18,P005,Shampoo 200ml,Personal Care,16,18.0,0
+2026-07-19,P001,Rice 5kg,Grocery,33,42.0,0
+2026-07-19,P002,Cooking Oil 1L,Grocery,23,16.5,0
+2026-07-19,P003,Milk 1L,Dairy,43,6.5,0
+2026-07-19,P004,Biscuits Pack,Snacks,57,3.0,0
+2026-07-19,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-20,P001,Rice 5kg,Grocery,19,42.0,0
+2026-07-20,P002,Cooking Oil 1L,Grocery,15,16.5,0
+2026-07-20,P003,Milk 1L,Dairy,31,6.5,0
+2026-07-20,P004,Biscuits Pack,Snacks,49,3.0,0
+2026-07-20,P005,Shampoo 200ml,Personal Care,10,18.0,0
+2026-07-21,P001,Rice 5kg,Grocery,23,42.0,0
+2026-07-21,P002,Cooking Oil 1L,Grocery,22,16.5,0
+2026-07-21,P003,Milk 1L,Dairy,34,6.5,0
+2026-07-21,P004,Biscuits Pack,Snacks,51,3.0,0
+2026-07-21,P005,Shampoo 200ml,Personal Care,10,18.0,0
+2026-07-22,P001,Rice 5kg,Grocery,24,42.0,0
+2026-07-22,P002,Cooking Oil 1L,Grocery,16,16.5,0
+2026-07-22,P003,Milk 1L,Dairy,34,6.5,0
+2026-07-22,P004,Biscuits Pack,Snacks,52,3.0,0
+2026-07-22,P005,Shampoo 200ml,Personal Care,9,18.0,0
+2026-07-23,P001,Rice 5kg,Grocery,26,42.0,0
+2026-07-23,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-07-23,P003,Milk 1L,Dairy,33,6.5,0
+2026-07-23,P004,Biscuits Pack,Snacks,37,3.0,0
+2026-07-23,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-24,P001,Rice 5kg,Grocery,23,42.0,0
+2026-07-24,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-07-24,P003,Milk 1L,Dairy,36,6.5,0
+2026-07-24,P004,Biscuits Pack,Snacks,57,3.0,0
+2026-07-24,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-07-25,P001,Rice 5kg,Grocery,27,42.0,0
+2026-07-25,P002,Cooking Oil 1L,Grocery,24,16.5,0
+2026-07-25,P003,Milk 1L,Dairy,47,6.5,0
+2026-07-25,P004,Biscuits Pack,Snacks,68,3.0,0
+2026-07-25,P005,Shampoo 200ml,Personal Care,17,18.0,0
+2026-07-26,P001,Rice 5kg,Grocery,32,42.0,0
+2026-07-26,P002,Cooking Oil 1L,Grocery,27,16.5,0
+2026-07-26,P003,Milk 1L,Dairy,39,6.5,0
+2026-07-26,P004,Biscuits Pack,Snacks,54,3.0,0
+2026-07-26,P005,Shampoo 200ml,Personal Care,14,18.0,0
+2026-07-27,P001,Rice 5kg,Grocery,23,42.0,0
+2026-07-27,P002,Cooking Oil 1L,Grocery,15,16.5,0
+2026-07-27,P003,Milk 1L,Dairy,40,6.5,0
+2026-07-27,P004,Biscuits Pack,Snacks,45,3.0,0
+2026-07-27,P005,Shampoo 200ml,Personal Care,9,18.0,0
+2026-07-28,P001,Rice 5kg,Grocery,21,42.0,0
+2026-07-28,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-07-28,P003,Milk 1L,Dairy,41,6.5,0
+2026-07-28,P004,Biscuits Pack,Snacks,60,3.0,0
+2026-07-28,P005,Shampoo 200ml,Personal Care,17,18.0,0
+2026-07-29,P001,Rice 5kg,Grocery,33,42.0,1
+2026-07-29,P002,Cooking Oil 1L,Grocery,21,16.5,1
+2026-07-29,P003,Milk 1L,Dairy,35,6.5,1
+2026-07-29,P004,Biscuits Pack,Snacks,61,3.0,1
+2026-07-29,P005,Shampoo 200ml,Personal Care,14,18.0,1
+2026-07-30,P001,Rice 5kg,Grocery,30,42.0,1
+2026-07-30,P002,Cooking Oil 1L,Grocery,22,16.5,1
+2026-07-30,P003,Milk 1L,Dairy,45,6.5,1
+2026-07-30,P004,Biscuits Pack,Snacks,66,3.0,1
+2026-07-30,P005,Shampoo 200ml,Personal Care,16,18.0,1
+2026-07-31,P001,Rice 5kg,Grocery,24,42.0,0
+2026-07-31,P002,Cooking Oil 1L,Grocery,16,16.5,0
+2026-07-31,P003,Milk 1L,Dairy,28,6.5,0
+2026-07-31,P004,Biscuits Pack,Snacks,44,3.0,0
+2026-07-31,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-01,P001,Rice 5kg,Grocery,38,42.0,0
+2026-08-01,P002,Cooking Oil 1L,Grocery,24,16.5,0
+2026-08-01,P003,Milk 1L,Dairy,51,6.5,0
+2026-08-01,P004,Biscuits Pack,Snacks,56,3.0,0
+2026-08-01,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-08-02,P001,Rice 5kg,Grocery,28,42.0,0
+2026-08-02,P002,Cooking Oil 1L,Grocery,21,16.5,0
+2026-08-02,P003,Milk 1L,Dairy,57,6.5,0
+2026-08-02,P004,Biscuits Pack,Snacks,54,3.0,0
+2026-08-02,P005,Shampoo 200ml,Personal Care,17,18.0,0
+2026-08-03,P001,Rice 5kg,Grocery,22,42.0,0
+2026-08-03,P002,Cooking Oil 1L,Grocery,21,16.5,0
+2026-08-03,P003,Milk 1L,Dairy,39,6.5,0
+2026-08-03,P004,Biscuits Pack,Snacks,46,3.0,0
+2026-08-03,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-04,P001,Rice 5kg,Grocery,23,42.0,0
+2026-08-04,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-08-04,P003,Milk 1L,Dairy,34,6.5,0
+2026-08-04,P004,Biscuits Pack,Snacks,39,3.0,0
+2026-08-04,P005,Shampoo 200ml,Personal Care,10,18.0,0
+2026-08-05,P001,Rice 5kg,Grocery,26,42.0,0
+2026-08-05,P002,Cooking Oil 1L,Grocery,23,16.5,0
+2026-08-05,P003,Milk 1L,Dairy,38,6.5,0
+2026-08-05,P004,Biscuits Pack,Snacks,47,3.0,0
+2026-08-05,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-08-06,P001,Rice 5kg,Grocery,30,42.0,0
+2026-08-06,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-08-06,P003,Milk 1L,Dairy,35,6.5,0
+2026-08-06,P004,Biscuits Pack,Snacks,55,3.0,0
+2026-08-06,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-08-07,P001,Rice 5kg,Grocery,31,42.0,0
+2026-08-07,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-08-07,P003,Milk 1L,Dairy,31,6.5,0
+2026-08-07,P004,Biscuits Pack,Snacks,39,3.0,0
+2026-08-07,P005,Shampoo 200ml,Personal Care,15,18.0,0
+2026-08-08,P001,Rice 5kg,Grocery,38,42.0,0
+2026-08-08,P002,Cooking Oil 1L,Grocery,23,16.5,0
+2026-08-08,P003,Milk 1L,Dairy,45,6.5,0
+2026-08-08,P004,Biscuits Pack,Snacks,70,3.0,0
+2026-08-08,P005,Shampoo 200ml,Personal Care,14,18.0,0
+2026-08-09,P001,Rice 5kg,Grocery,29,42.0,0
+2026-08-09,P002,Cooking Oil 1L,Grocery,25,16.5,0
+2026-08-09,P003,Milk 1L,Dairy,45,6.5,0
+2026-08-09,P004,Biscuits Pack,Snacks,60,3.0,0
+2026-08-09,P005,Shampoo 200ml,Personal Care,15,18.0,0
+2026-08-10,P001,Rice 5kg,Grocery,27,42.0,0
+2026-08-10,P002,Cooking Oil 1L,Grocery,23,16.5,0
+2026-08-10,P003,Milk 1L,Dairy,38,6.5,0
+2026-08-10,P004,Biscuits Pack,Snacks,52,3.0,0
+2026-08-10,P005,Shampoo 200ml,Personal Care,9,18.0,0
+2026-08-11,P001,Rice 5kg,Grocery,25,42.0,0
+2026-08-11,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-08-11,P003,Milk 1L,Dairy,31,6.5,0
+2026-08-11,P004,Biscuits Pack,Snacks,42,3.0,0
+2026-08-11,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-12,P001,Rice 5kg,Grocery,35,42.0,1
+2026-08-12,P002,Cooking Oil 1L,Grocery,20,16.5,1
+2026-08-12,P003,Milk 1L,Dairy,47,6.5,1
+2026-08-12,P004,Biscuits Pack,Snacks,57,3.0,1
+2026-08-12,P005,Shampoo 200ml,Personal Care,15,18.0,1
+2026-08-13,P001,Rice 5kg,Grocery,36,42.0,1
+2026-08-13,P002,Cooking Oil 1L,Grocery,25,16.5,1
+2026-08-13,P003,Milk 1L,Dairy,54,6.5,1
+2026-08-13,P004,Biscuits Pack,Snacks,60,3.0,1
+2026-08-13,P005,Shampoo 200ml,Personal Care,15,18.0,1
+2026-08-14,P001,Rice 5kg,Grocery,25,42.0,0
+2026-08-14,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-08-14,P003,Milk 1L,Dairy,39,6.5,0
+2026-08-14,P004,Biscuits Pack,Snacks,41,3.0,0
+2026-08-14,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-08-15,P001,Rice 5kg,Grocery,33,42.0,0
+2026-08-15,P002,Cooking Oil 1L,Grocery,31,16.5,0
+2026-08-15,P003,Milk 1L,Dairy,57,6.5,0
+2026-08-15,P004,Biscuits Pack,Snacks,55,3.0,0
+2026-08-15,P005,Shampoo 200ml,Personal Care,15,18.0,0
+2026-08-16,P001,Rice 5kg,Grocery,27,42.0,0
+2026-08-16,P002,Cooking Oil 1L,Grocery,22,16.5,0
+2026-08-16,P003,Milk 1L,Dairy,49,6.5,0
+2026-08-16,P004,Biscuits Pack,Snacks,69,3.0,0
+2026-08-16,P005,Shampoo 200ml,Personal Care,15,18.0,0
+2026-08-17,P001,Rice 5kg,Grocery,23,42.0,0
+2026-08-17,P002,Cooking Oil 1L,Grocery,13,16.5,0
+2026-08-17,P003,Milk 1L,Dairy,37,6.5,0
+2026-08-17,P004,Biscuits Pack,Snacks,42,3.0,0
+2026-08-17,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-18,P001,Rice 5kg,Grocery,23,42.0,0
+2026-08-18,P002,Cooking Oil 1L,Grocery,19,16.5,0
+2026-08-18,P003,Milk 1L,Dairy,29,6.5,0
+2026-08-18,P004,Biscuits Pack,Snacks,39,3.0,0
+2026-08-18,P005,Shampoo 200ml,Personal Care,16,18.0,0
+2026-08-19,P001,Rice 5kg,Grocery,21,42.0,0
+2026-08-19,P002,Cooking Oil 1L,Grocery,16,16.5,0
+2026-08-19,P003,Milk 1L,Dairy,48,6.5,0
+2026-08-19,P004,Biscuits Pack,Snacks,69,3.0,0
+2026-08-19,P005,Shampoo 200ml,Personal Care,11,18.0,0
+2026-08-20,P001,Rice 5kg,Grocery,25,42.0,0
+2026-08-20,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-08-20,P003,Milk 1L,Dairy,47,6.5,0
+2026-08-20,P004,Biscuits Pack,Snacks,42,3.0,0
+2026-08-20,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-21,P001,Rice 5kg,Grocery,29,42.0,0
+2026-08-21,P002,Cooking Oil 1L,Grocery,21,16.5,0
+2026-08-21,P003,Milk 1L,Dairy,36,6.5,0
+2026-08-21,P004,Biscuits Pack,Snacks,48,3.0,0
+2026-08-21,P005,Shampoo 200ml,Personal Care,10,18.0,0
+2026-08-22,P001,Rice 5kg,Grocery,32,42.0,0
+2026-08-22,P002,Cooking Oil 1L,Grocery,24,16.5,0
+2026-08-22,P003,Milk 1L,Dairy,49,6.5,0
+2026-08-22,P004,Biscuits Pack,Snacks,58,3.0,0
+2026-08-22,P005,Shampoo 200ml,Personal Care,17,18.0,0
+2026-08-23,P001,Rice 5kg,Grocery,36,42.0,0
+2026-08-23,P002,Cooking Oil 1L,Grocery,25,16.5,0
+2026-08-23,P003,Milk 1L,Dairy,50,6.5,0
+2026-08-23,P004,Biscuits Pack,Snacks,62,3.0,0
+2026-08-23,P005,Shampoo 200ml,Personal Care,16,18.0,0
+2026-08-24,P001,Rice 5kg,Grocery,23,42.0,0
+2026-08-24,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-08-24,P003,Milk 1L,Dairy,38,6.5,0
+2026-08-24,P004,Biscuits Pack,Snacks,63,3.0,0
+2026-08-24,P005,Shampoo 200ml,Personal Care,16,18.0,0
+2026-08-25,P001,Rice 5kg,Grocery,28,42.0,0
+2026-08-25,P002,Cooking Oil 1L,Grocery,17,16.5,0
+2026-08-25,P003,Milk 1L,Dairy,33,6.5,0
+2026-08-25,P004,Biscuits Pack,Snacks,57,3.0,0
+2026-08-25,P005,Shampoo 200ml,Personal Care,13,18.0,0
+2026-08-26,P001,Rice 5kg,Grocery,35,42.0,1
+2026-08-26,P002,Cooking Oil 1L,Grocery,20,16.5,1
+2026-08-26,P003,Milk 1L,Dairy,53,6.5,1
+2026-08-26,P004,Biscuits Pack,Snacks,65,3.0,1
+2026-08-26,P005,Shampoo 200ml,Personal Care,14,18.0,1
+2026-08-27,P001,Rice 5kg,Grocery,31,42.0,1
+2026-08-27,P002,Cooking Oil 1L,Grocery,25,16.5,1
+2026-08-27,P003,Milk 1L,Dairy,49,6.5,1
+2026-08-27,P004,Biscuits Pack,Snacks,60,3.0,1
+2026-08-27,P005,Shampoo 200ml,Personal Care,16,18.0,1
+2026-08-28,P001,Rice 5kg,Grocery,25,42.0,0
+2026-08-28,P002,Cooking Oil 1L,Grocery,20,16.5,0
+2026-08-28,P003,Milk 1L,Dairy,46,6.5,0
+2026-08-28,P004,Biscuits Pack,Snacks,32,3.0,0
+2026-08-28,P005,Shampoo 200ml,Personal Care,12,18.0,0
+2026-08-29,P001,Rice 5kg,Grocery,34,42.0,0
+2026-08-29,P002,Cooking Oil 1L,Grocery,25,16.5,0
+2026-08-29,P003,Milk 1L,Dairy,46,6.5,0
+2026-08-29,P004,Biscuits Pack,Snacks,51,3.0,0
+2026-08-29,P005,Shampoo 200ml,Personal Care,17,18.0,0

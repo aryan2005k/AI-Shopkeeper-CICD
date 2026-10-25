@@ -1,0 +1,4 @@
+# Optional dependency for the LSTM experiment.
+# Kept separate so the core dashboard stays light (TensorFlow is ~400 MB).
+# A stable TensorFlow release is preferred over a release candidate / nightly.
+tensorflow>=2.20
