@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: ai-shopkeeper
+
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: ai-shopkeeper
+
+  template:
+    metadata:
+      labels:
+        app: ai-shopkeeper
+
+    spec:
+      containers:
+        - name: ai-shopkeeper
+          image: IMAGE_PLACEHOLDER
+          imagePullPolicy: Always
+
+          ports:
+            - containerPort: 8000
